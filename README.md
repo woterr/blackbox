@@ -25,6 +25,14 @@ It wasn’t just coding. It demanded:
 Only one team would walk away with the win.\
 We did.
 
+## Problem statement: 
+1. Participants must build a wearable telemetry system that attaches to a rider’s helmet, jacket, and/or pants and captures real-time motion and location data.
+2. The system must display live information on a mobile app and store all readings with timestamps.
+3. The app should also detect whether the rider is on a scooter, a motorcycle, or not riding, based on posture and motion.
+4. All prototypes must be fully demonstrable on the test track during the
+hackathon.
+
+
 ## POC
 
 <p align="center" style="display: flex; padding: 1rem; gap: 2rem;">
@@ -32,13 +40,6 @@ We did.
   <img src="https://github.com/user-attachments/assets/3fa6b45e-4b65-4d51-b800-d318911c07e8" width="45%" height="100%">
 </p>
 
-
-## Problem statement: 
-1. Participants must build a wearable telemetry system that attaches to a rider’s helmet, jacket, and/or pants and captures real-time motion and location data.
-2. The system must display live information on a mobile app and store all readings with timestamps.
-3. The app should also detect whether the rider is on a scooter, a motorcycle, or not riding, based on posture and motion.
-4. All prototypes must be fully demonstrable on the test track during the
-hackathon.
 
 
 ## Tech Stack
