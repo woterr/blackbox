@@ -9,6 +9,11 @@ It attaches to the rider's helmet and collects real-time motion & location data,
 - Bike
 - Walking/Running
 
+<p align="center" style="display: flex; padding: 1rem; gap: 2rem;">
+  <img src="https://github.com/user-attachments/assets/1ad1b918-ab94-4f63-92e6-2785146697d7" width="45%" height="100%">
+  <img src="https://github.com/user-attachments/assets/3fa6b45e-4b65-4d51-b800-d318911c07e8" width="45%" height="100%">
+</p>
+
 Built in **18 hours**. Fully tested on track during the hackathon.
 
 ## About Ignition 1.0
@@ -31,15 +36,6 @@ We did.
 3. The app should also detect whether the rider is on a scooter, a motorcycle, or not riding, based on posture and motion.
 4. All prototypes must be fully demonstrable on the test track during the
 hackathon.
-
-
-## POC
-
-<p align="center" style="display: flex; padding: 1rem; gap: 2rem;">
-  <img src="https://github.com/user-attachments/assets/1ad1b918-ab94-4f63-92e6-2785146697d7" width="45%" height="100%">
-  <img src="https://github.com/user-attachments/assets/3fa6b45e-4b65-4d51-b800-d318911c07e8" width="45%" height="100%">
-</p>
-
 
 
 ## Tech Stack
