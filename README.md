@@ -70,9 +70,9 @@ hackathon.
 ## Team Members
 ||
 | -------- |
-| [Joshua R](https://github.com/joshua-rajj)      |
-| [Shreyas V](https://github.com/woterr) |
+| [Joshua R](https://github.com/joshua-rajj) |
 | [Arjun](https://github.com/arjun-com) |
+| [Shreyas V](https://github.com/woterr) |
 | Abhinav K |
 
 
