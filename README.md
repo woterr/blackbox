@@ -9,8 +9,8 @@ It attaches to the rider's helmet and collects real-time motion & location data,
 - Bike
 - Walking/Running
 <p align="center" style="display: flex; padding: 1rem; gap: 2rem;">
-  <img src="https://github.com/user-attachments/assets/1ad1b918-ab94-4f63-92e6-2785146697d7" height="300px">
-  <img src="https://github.com/user-attachments/assets/0c5ae14f-607d-49a2-8988-cef135238d59" height="300px">
+  <img src="https://github.com/user-attachments/assets/1ad1b918-ab94-4f63-92e6-2785146697d7" height="500px">
+  <img src="https://github.com/user-attachments/assets/0c5ae14f-607d-49a2-8988-cef135238d59" height="500px">
 </p>
 
 
